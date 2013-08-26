@@ -1,0 +1,165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <!--#include virtual="include/meta.shtml" -->
+  
+  <script language="JavaScript" src="js/master.js"  type="text/javascript">
+  </script>
+
+</head>
+
+<body>
+
+  <!--#include virtual="include/header.shtml" -->
+
+  <div class="header-4"></div>
+
+  <!--#include virtual="include/navigation.shtml" -->
+  
+  <div class="main-content">
+    <!--#include virtual="include/left-main-content.shtml" -->
+
+    <div class="center-content">
+
+      <div class="center-content-left">
+
+        <h2>
+          <span>Kamui</span>
+        </h2>
+          <p>
+          	<span>Power of Gods</span>
+          <p>
+        
+            <p>
+            <span>
+                The Japanese believe in the power of Gods as their protectors &amp; guides for their day-to-day lives. Kojiki, one of Japan’s oldest documents, 
+                states that Japan itself was created by Gods. The most notable of the thousands of Gods are: God of Sea, God of Earth, God of Wind, God of Thunder, 
+                God of Mountain, and God of Fire. The people of Japan respect, entertain, and harmonize with the Gods because they know and understand the power 
+                of the Gods is infinite and simply great.             
+            </span>
+          </p>
+          <br/>
+        
+          <h2>
+            <span>Otodama</span>
+          </h2>
+          <p>
+          	<span>Spirited Sounds</span>
+          <p>
+              <span>
+	          	Through sound we reach out to the Gods. Each sound has a different role and meaning. When sounds, spirits and souls are balanced, they become music to the Gods. 
+	          	Entertain the Gods with nice music and receive their protection.               
+              </span> 
+          </p>
+          <br/>
+
+          <h2>
+            <span>Fujin / Raijin</span>
+          </h2>
+          <p>
+          	<span>God of Wind / God of Thunder</span>
+          </p>	
+          <p>
+	          <span>
+		          Two Gods, so different in Nature – the God of Wind and the God of Thunder - each with a mind of its own, 
+		          compete in trying to create a storm independently of the other one…
+	          </span>
+	          <br/>
+	          <span> 
+	             	Until they realize that only through harmony and collaboration can the perfect storm be unleashed. 
+	          </span>
+          </p>
+          <br/>
+
+          <h2>
+            <span>Amaterasu</span>
+          </h2>
+          <p>
+          	<span>God of the Sun</span>
+          </p>	
+          <p>
+	          <span>
+		          During the rise of Japan, fights broke out amongst the Gods. Disappointed in the fighting, Amaterasu hid behind a rock, hoping the world would stop fighting. 
+		          Although the fighting stopped, without the sun, evil spirits started scaring people. The people created a plan to bring Amaterasu out from behind the rock; 
+		          they believed if Amaterasu heard cheerful &amp; joyful noise, she would get curious and peek out to see what was going on and so they would get their Sun back.
+	          </span>
+          </p>
+          <br/>
+
+          <h2>
+            <span>Eden Bayashi</span>
+          </h2>
+          <p>
+          	<span>Celebration of Immigrants</span>
+          </p>	
+          <p>
+	          <span>
+		          A song dedicated to immigrants who came to the New World, with all their hopes and dreams. Through great efforts, hard work and with their dream of maintaining 
+		          the traditions and customs, they established the communities and handed them over to younger generations as their legacy.
+	          </span>
+          </p>
+          <br/>
+
+      </div>  
+      
+     <div class="center-content-right">
+        <h2>
+          <span>Zoku<span>
+        </h2>
+        <p>
+          <span>
+	          Zoku is a Japanese term signifying a Group or Gathering. The original song is composed and performed by Kodo, who is one of the most important groups 
+	          that promote Taiko within and outside of Japan. The group members spend a third of a year touring overseas, one third performing in Japan and one 
+	          third preparing new material on the island of Sado. This version has been adapted for our group by our instructor, Masa Fukuizumi, and is our tribute 
+	          to the work that Kodo does to promote Taiko around the world.
+          </span>
+        </p>
+        
+        <br/>
+        
+	    <h2>
+	      <span>Soran Bushi</span>
+	    </h2>
+        <p>
+          <span>
+          	Soran Bushi is an old folk song that describes the life of fishermen from the island of Hokkaido, as they go to sea, throw fishing nets, 
+          	harvest the catch and finally celebrate a good fishing day. The flags that signify the “Good Catch” are raised to let anxious families on the shore 
+          	know that it’s time to enjoy the fruit of their hard work. Dancers perform alongside this traditional song played by Shinobue and the Taiko. 
+		  </span>
+        </p>
+        <br/>        
+
+	    <h2>
+	    	<span>Kizuna</span>
+	    </h2>
+	    <p>
+	      	<span>Connected</span>
+	    <p>        
+          <span>
+          	After the earthquake &amp; Tsunami, Japanese people realized how some of their relationship to those who lost their lives were fragile and shallow… now, 
+          	after the tragedy, they try to re-establish and strengthen the connections, getting to know and understand others who are around.
+		  </span>
+        </p>
+        <br/>        
+
+	    <h2>
+	    	<span>Hare Oto</span>
+	    </h2>		    
+	    <p>
+	      	<span>Festival Sounds</span>
+	    <p>        
+          <span>
+          	Festivals are for people and for Gods. There are Festivals to celebrate the births of people, of Gods, of Seasons, of Nature and everything that surrounds us. 
+          	These sounds are deep within people and represent their traditions and their culture.
+		  </span>
+        </p>
+        <br/>        
+      </div>         
+    </div>
+
+    <!--#include virtual="include/right-main-content.shtml" -->
+  </div>
+    <!--#include virtual="include/copyright.shtml" -->  
+    <!--#include virtual="include/about-counter.shtml" -->  
+</body>
+</html>
